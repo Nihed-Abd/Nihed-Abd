@@ -1,5 +1,5 @@
 
-<h1 align="center">Hello &nbsp;<a href="https://avipatilweb.ml/"><img src="icons/wave.gif" width="48"></a> , I'm Nihed BenAbdennour</h1>
+<h1 align="center">Hello &nbsp;<a href="https://avipatilweb.ml/"><img src="wave.gif" width="48"></a> , I'm Nihed BenAbdennour</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Computer+Engineer;Full-Stack+Developer;IT+Engineering+Student;FlutterFlow+Expert;" alt="Typing SVG" />
@@ -332,10 +332,10 @@ I am a passionate Fullstack Engineering student with a strong focus on solving c
     </tr>
     <tr>
       <td align="center">
-        <img src="icons/USDT(TRC20).png" alt="USDT QR Code" width="150" height="150">
+        <img src="USDT(TRC20).png" alt="USDT QR Code" width="150" height="150">
       </td> 
       <td align="center">
-        <img src="icons/btc.png" alt="BTC QR Code" width="150" height="150">
+        <img src="btc.png" alt="BTC QR Code" width="150" height="150">
       </td> 
     </tr>
   </table>
