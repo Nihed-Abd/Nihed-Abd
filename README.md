@@ -269,6 +269,9 @@ I am a passionate Fullstack Engineering student with a strong focus on solving c
       <td align="center" style="border: none;">
         <img src="https://skillicons.dev/icons?i=supabase" alt="supabase" width="50" height="50"/><br>Supabase
       </td>
+       <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=graphql" alt="graphql" width="50" height="50"/><br>GraphQl
+      </td>
     </tr>
   </tbody>
 </table>
