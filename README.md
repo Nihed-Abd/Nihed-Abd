@@ -15,22 +15,22 @@
   <tr>
     <td align="center">
       <a href="https://www.instagram.com/nihed_abd/" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fknightgamer87%2F&subtitle=@Nihed_abd&size=square" alt="knightgamer87">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fknightgamer87%2F&subtitle=@Nihed_abd&size=square" alt="Instagram">
       </a>
     </td>
     <td align="center">
       <a href="https://www.linkedin.com/in/nihed-benabdennour-a06011282/" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkenan-gain-33048518a%2F&subtitle=@Nihed+Abdennour&size=square" alt="Kenan Gain">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkenan-gain-33048518a%2F&subtitle=@Nihed+Abdennour&size=square" alt="linkedin">
       </a>
     </td>
     <td align="center">
       <a href="https://www.facebook.com/nihed.abd.92/" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Ffacebook.com%2Fkenan.gain&subtitle=@Nihed+Abdennour&size=square" alt="Kenan Gain">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Ffacebook.com%2Fkenan.gain&subtitle=@Nihed+Abdennour&size=square" alt="facebook">
       </a>
     </td>
      <td align="center">
       <a href="https://github.com/Nihed-Abd" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FKenanGain&subtitle=%2FNihed-Abd&size=square" alt="Kenan Gain">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FKenanGain&subtitle=%2FNihed-Abd&size=square" alt="github">
       </a>
     </td>
   </tr>
