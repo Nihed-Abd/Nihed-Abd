@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  FullStack Developer | FlutterFlow Expert | IT Engineering Student
+  FullStack | Automation | Telegram Bots | Ai Expert
 </p>
 
 <div align="cent  er">
